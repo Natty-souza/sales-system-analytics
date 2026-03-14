@@ -21,3 +21,6 @@ This project combines a simple sales system with data analysis and automated rep
 - analytics.py → data analysis and report generation
 - sales_data.csv → sample data
 - database.sql → database structure
+## Example Output
+
+![Sales Report](report.png)
