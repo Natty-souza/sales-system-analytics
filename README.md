@@ -1,3 +1,4 @@
+
 # Sales System Analytics
 
 This project combines a simple sales system with data analysis and automated report generation.
@@ -20,6 +21,7 @@ This project combines a simple sales system with data analysis and automated rep
 Clone the repository:
 
 git clone https://github.com/Natty-souza/Sales-System-Analytics.git
+
 
 Install dependencies:
 
