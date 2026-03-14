@@ -15,6 +15,21 @@ This project combines a simple sales system with data analysis and automated rep
 - Pandas
 - Matplotlib
 
+- ## Installation
+
+Clone the repository:
+
+git clone https://github.com/Natty-souza/Sales-System-Analytics.git
+
+Install dependencies:
+
+pip install pandas matplotlib
+
+Run the project:
+
+python analytics.py
+
+
 ## Project Structure
 
 - main.py → simple sales system
